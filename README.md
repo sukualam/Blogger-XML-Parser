@@ -3,6 +3,9 @@ This is Blogger Xml Parser, written in PHP. It will usefull for converting to an
 
 ### Description
 This actually just example script to parse the messy Blogger Backup File XML. But the source code is very interesting.
+
+This is not parsing blogger feed, but blogger backup file (xml)
+
 Just try it and enjoy!
 
 ### How-To
